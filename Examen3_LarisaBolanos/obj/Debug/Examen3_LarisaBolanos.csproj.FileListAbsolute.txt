@@ -1,0 +1,7 @@
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\bin\Debug\Examen3_LarisaBolanos.exe.config
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\bin\Debug\Examen3_LarisaBolanos.exe
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\bin\Debug\Examen3_LarisaBolanos.pdb
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\obj\Debug\Examen3_LarisaBolanos.csproj.AssemblyReference.cache
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\obj\Debug\Examen3_LarisaBolanos.csproj.CoreCompileInputs.cache
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\obj\Debug\Examen3_LarisaBolanos.exe
+C:\Users\Larisa\Desktop\Programacion3\Examen3_LarisaBolanos\Examen3_LarisaBolanos\obj\Debug\Examen3_LarisaBolanos.pdb
